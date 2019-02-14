@@ -2,7 +2,7 @@
 
 ### Challenge Brief
 
-Code a product page based on your own study of this API - `https://api.hermo.my/mall/15`. 
+Code a product page based on your own study of this API - `https://api.hermo.my/mall/15`.
 
 #### Requirements
 
@@ -10,6 +10,7 @@ Code a product page based on your own study of this API - `https://api.hermo.my/
 - CSS
 - Javascript
 - Asynchronous call to the API
+- Responsive (Device aware)
 
 You are open to use any framework or library, e.g ReactJS
 
@@ -22,6 +23,7 @@ You will be evaluated based on:
 Bonus Points
 - Your mastery of git
 - SEO Awareness
+- Beautiful design
 
 ### How To Submit
 
