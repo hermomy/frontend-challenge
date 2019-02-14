@@ -9,7 +9,7 @@ Code a product page based on your own study of this API - `https://api.hermo.my/
 - HTML
 - CSS
 - Javascript
-- AJAX call to the API
+- Asynchronous call to the API
 
 You are open to use any framework or library, e.g ReactJS
 
